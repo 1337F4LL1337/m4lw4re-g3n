@@ -21,3 +21,6 @@ __🚧 InDev__
 > ⌨️ - Keylogger
 >
 > ☠️ - Easy ransomware generator
+>
+> 🧟‍♂️ - Botnet
+>
